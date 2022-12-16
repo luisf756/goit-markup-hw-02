@@ -86,10 +86,10 @@ a{
   color: var(--accent-color);
 }
 /* Hero section  */
-.hero{
+.banner-index{
   background-color: var(--primary-black-color) ;
 }
-.hero .baner-title{
+.banner-index .baner-title{
   color: var(--primary-white-color);
   font-size: 44px;
   text-transform: capitalize;
@@ -118,7 +118,7 @@ footer {
   background-color: var(--background-black);
 }
 
-address .contact {
+ address .contact {
   color: var(--text-white-opacity);
   font-style: normal;
   font-weight: 400;
@@ -127,6 +127,6 @@ address .contact {
   text-decoration: none;
 }
 
-address .contact:hover{
+.contact:hover{
   color: var(--primary-white-color);
 }
